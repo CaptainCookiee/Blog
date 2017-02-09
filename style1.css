@@ -22,12 +22,12 @@ text-shadow: 0px 2px black;
 z-index:0;
 
 }
-.titlteDiv a:link, a:visited, a:hover, a:active {
-    text-decoration: none;
-    color: white;
+.titlteDiv
 
 }
-.titleText{
+.titleText a:link, a:visited, a:hover, a:active {
+    text-decoration: none;
+    color: white;
     font-family: poppins;
 }
 
